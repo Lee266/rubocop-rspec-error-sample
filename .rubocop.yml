@@ -1,0 +1,8 @@
+# .rubocop.yml
+
+plugins:
+  - rubocop-rspec
+  - rubocop-rails
+
+AllCops:
+  NewCops: enable
